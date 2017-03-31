@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 FlippableStackView
 ===============
 
@@ -102,3 +103,7 @@ License
  [1]: http://developer.android.com/reference/android/support/v4/view/PagerAdapter.html
  [2]: https://chris.banes.me/2013/08/27/pushing-aars-to-maven-central/
  [3]: https://github.com/chrisbanes/gradle-mvn-push
+=======
+# FlippableStackView
+FlippableStackView（转载其他人的）
+>>>>>>> 4374a2c690b256c14a9df3d2caba26f1a3845548
